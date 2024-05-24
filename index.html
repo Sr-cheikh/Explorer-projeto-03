@@ -27,11 +27,28 @@
         </header>
         <form>
             <fieldset>
-                <legend>Informações do evento</legend>
+                <div class="fildset-wrapper">
+                    <legend>Informações do evento</legend>
 
-                <div class="input-wrapper">
-                    <label for="event-title">Titulo do envento <span>(minimo 8 caractires)</span></span></label>
-                    <input type="text" id="event-title" />
+                    <div class="input-wrapper">
+                        <label for="event-title">Titulo do envento <span>(minimo 8 caractires)</span></span></label>
+                        <input type="text" id="event-title" />
+                    </div>
+    
+                    <div class="input-wrapper">
+                        <label for="event-link">Link do envento <span>(começe com https://)</span></span></label>
+                        <input type="url" id="event-link" />
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="event-whatsapp">Whatsapp para contato <span>(somente números)</span></span></label>
+                        <input type="number" id="event-whatsapp" />
+                    </div>
+
+                    <div class="input-wrapper">
+                        <label for="event-info">Informações  extras </span></label>
+                        <textarea id="event-info"></textarea>
+                    </div>
                 </div>
             </fieldset>
         </form>
