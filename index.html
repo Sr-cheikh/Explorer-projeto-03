@@ -19,7 +19,7 @@
 
 </head>
 <body>
-    <div id="page">
+    <div class="page">
         <header>
             <h1>Crie e compartilhe seu evento.</h1>
             <p>O primeiro passo, é preencher esse
@@ -46,8 +46,16 @@
                     </div>
 
                     <div class="input-wrapper">
-                        <label for="event-info">Informações  extras </span></label>
+                        <label for="event-info">Informações  extras </label>
                         <textarea id="event-info"></textarea>
+                    </div>
+                    <div class="input-wrapper">
+                        <label for="event-category">Categoria</label>
+                        <select id="event-category">
+                            <option value="live">Ao vivo</option>
+                            <option value="podcast">Podecast</option>
+                            <option value="mentorship">Mentoria</option>
+                        </select>
                     </div>
                 </div>
             </fieldset>
