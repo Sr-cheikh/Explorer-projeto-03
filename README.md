@@ -31,11 +31,11 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O site desenvolvido é um feito simplesmente para explicar conceitos de HTML e CSS para alunos.
 
-- [Assistir aulas](https://app.rocketseat.com.br/classroom/stage-02/group/conhecendo-novos-conceitos-de-html-e-css/lesson/apresentando-o-projeto-02)
+- [Assistir aulas](https://app.rocketseat.com.br/classroom/stage-03/group/formularios-validacoes-e-customizacoes/challenge/criando-formularios)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/gVTw3WzlKhOiMLan1GiqLy/Explorer---Projeto-02-(Copy)?node-id=1-5&t=4d8ZsyFpWjT8vCYj-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/design/ZrGNZBbhEkbBSCvGSWQUzl/Explorer-Stage-03-Projeto-01-(Copy)?node-id=0-1&t=rWML5RYpSa56Q5cd-0). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
