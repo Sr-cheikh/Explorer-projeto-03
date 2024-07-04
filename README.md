@@ -29,7 +29,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O site desenvolvido é um feito simplesmente para explicar conceitos de HTML e CSS para alunos.
+O site desenvolvido é um feito simplesmente para aprender conceitos de HTML e CSS.
 
 - [Assistir aulas](https://app.rocketseat.com.br/classroom/stage-03/group/formularios-validacoes-e-customizacoes/challenge/criando-formularios)
 
